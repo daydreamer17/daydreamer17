@@ -1,6 +1,10 @@
 # 👋 Hi, I'm daydreamer17!
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=IoT+Engineering+Student;Incoming+AI+Systems+Student+%40+NUS;Interested+in+LLM+Systems%2C+Agents%2C+and+Practical+AI" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://linkedin.com/in/xiongjie-tang">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
@@ -10,6 +14,10 @@
   <a href="https://www.nus.edu.sg/">
     <img src="https://img.shields.io/badge/NUS-orange?style=flat-square" alt="NUS" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=daydreamer17&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 <p align="center">
