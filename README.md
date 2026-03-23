@@ -12,11 +12,13 @@
 
 ## About
 
-I am an undergraduate student in Internet of Things Engineering at BUPT,  
+Hi,I'm Xiongjie. I am an undergraduate student in Internet of Things Engineering at BUPT,  
 and an incoming master's student in AI Systems at NUS.
 
 I enjoy building practical systems at the intersection of AI and engineering,  
 especially in areas related to LLMs, agents, context engineering, and system design.
+
+I love seeking out interesting and useful open-source projects and learning from them to improve myself.
 
 ---
 
@@ -51,13 +53,3 @@ especially in areas related to LLMs, agents, context engineering, and system des
 - LinkedIn: linkedin.com/in/xiongjie-tang
 
 ---
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=daydreamer17&show_icons=true&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daydreamer17&layout=compact&hide_border=true" />
-</p>
