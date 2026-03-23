@@ -1,55 +1,35 @@
-<h1 align="center">Xiongjie Tang</h1>
+# 👋 Hi, I'm Xiongjie Tang (汤雄杰)
 
 <p align="center">
-  IoT Undergraduate @ BUPT · Incoming AI Systems @ NUS
+  <a href="https://linkedin.com/in/xiongjie-tang">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/BUPT-IoT_Undergraduate-blue?style=flat-square" alt="BUPT" />
+  <img src="https://img.shields.io/badge/NUS-Incoming_AI_Systems_MS-orange?style=flat-square" alt="NUS" />
 </p>
 
-<p align="center">
-  Interested in LLM systems, agent engineering, RAG, and practical AI.
-</p>
+> **"Exploring the synergy between IoT infrastructure and LLM-based Intelligence."**
+
+[cite_start]I am a final-year undergraduate at **BUPT** majoring in **IoT Engineering** [cite: 7, 8][cite_start], and an incoming **Master's student** at the **National University of Singapore (NUS)** in the **AI Systems** program (Starting Aug 2026)[cite: 12, 13]. 
+
+[cite_start]Currently, I am gaining hands-on experience as a **Multimodal LLM Intern** at **TeleAI (China Telecom)** [cite: 15, 16][cite_start], where I focus on vision-language integration and model evaluation[cite: 23, 24].
 
 ---
 
-## About
+### 🛠 Tech Stack & Core Interests
 
-Hi,I'm Xiongjie. I am an undergraduate student in Internet of Things Engineering at BUPT,  
-and an incoming master's student in AI Systems at NUS.
-
-I enjoy building practical systems at the intersection of AI and engineering,  
-especially in areas related to LLMs, agents, context engineering, and system design.
-
-I love seeking out interesting and useful open-source projects and learning from them to improve myself.
-
+- **LLM & Agent Systems**: 
+  - [cite_start]Deep dive into **Agent Engineering** (LangGraph, ReAct, Plan-Execute)[cite: 36, 51].
+  - [cite_start]Advanced **RAG & Context Engineering** (Hybrid Search, HyDE, Rerank)[cite: 38, 51].
+  - [cite_start]Built an **Intelligent Writing Assistant** with manual human-in-the-loop triggers[cite: 32, 37].
+- **AI Engineering (Vibe Coding)**: 
+  - [cite_start]Proficient in **AI-driven development** using Cursor, Claude Code, and Codex to accelerate prototyping and system refactoring.
+- **Systems & Backend**: 
+  - [cite_start]**Python** (FastAPI/Flask), **Java** (Spring Boot/MyBatis), and **SQL**[cite: 50, 53].
+  - [cite_start]Experienced in **IoT protocols** and network debugging (Wireshark/DNS)[cite: 54].
 ---
 
-## Interests
-
-- LLM systems
-- Agent engineering
-- RAG and context engineering
-- System design
-- IoT and intelligent systems
-
----
-
-## Currently
-
-- Learning
-- Building
-- Exploring
-
----
-
-## Philosophy
-
-> Enjoy life and keep learning.
-
----
-
-## Contact
-
-- Email: tangxiongjie@bupt.edu.cn
-- GitHub: github.com/daydreamer17
-- LinkedIn: linkedin.com/in/xiongjie-tang
-
----
+### 📫 Let's Connect!
+- [cite_start]**Email**: [tangxiongjie@bupt.edu.cn](mailto:tangxiongjie@bupt.edu.cn) [cite: 3]
+- [cite_start]**Location**: Beijing 📍 (Future: Singapore 🇸🇬) [cite: 18, 20]
+- **Philosophy**: *Whatever comes your way, just enjoy life and keep learning!* 🚀
