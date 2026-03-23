@@ -29,24 +29,22 @@ I am particularly interested in the intersection of **AI capability** and **engi
 ### 🛠 Tech Stack & Core Interests
 
 #### **LLM & Agent Systems**
-- Deeply interested in **Agent Engineering**, including workflow-based orchestration, multi-step reasoning, and human-in-the-loop system design
-- Exploring **RAG** and **Context Engineering**, with a focus on retrieval quality, evidence grounding, reranking, HyDE, and memory-aware generation
-- Interested in building systems that connect **planning, research, drafting, revision, and interaction** into a coherent AI workflow
+- Interested in **Agent Engineering**, **RAG**, and **Context Engineering**
+- Focused on retrieval quality, evidence grounding, reranking, and memory-aware generation
+- Curious about building coherent AI workflows with planning, interaction, and human-in-the-loop design
 
 #### **AI Engineering**
-- Comfortable with **AI-driven development workflows** using tools such as **Cursor**, **Claude Code**, and **Codex**
-- Interested in using AI coding tools for rapid prototyping, codebase understanding, structured iteration, and engineering acceleration
-- Enjoy turning ideas into practical prototypes through fast feedback and incremental refinement
+- Comfortable with AI-driven development using **Cursor**, **Claude Code**, and **Codex**
+- Interested in rapid prototyping, codebase understanding, and engineering acceleration with AI tools
 
 #### **Systems & Backend**
 - Main languages: **Python**, **Java**, and **SQL**
-- Familiar with backend development using **FastAPI**, **Flask**, **Spring Boot**, and **MyBatis**
-- Interested in system structure, API design, modularity, and building maintainable engineering workflows
+- Familiar with **FastAPI**, **Flask**, **Spring Boot**, and **MyBatis**
+- Interested in modular system design and maintainable backend engineering
 
 #### **IoT & Infrastructure**
-- Background in **IoT systems**, with long-term interest in how sensing, communication, and intelligence connect together
-- Familiar with network debugging and protocol-related engineering tasks
-- Especially interested in the path from **physical-world systems** to **AI-enhanced intelligent systems**
+- Background in **IoT systems** and network-related engineering
+- Interested in connecting physical-world infrastructure with AI-enhanced intelligent systems
 
 ---
 
