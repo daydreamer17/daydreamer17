@@ -1,4 +1,3 @@
-```text
 $ whoami
 Xiongjie Tang
 
