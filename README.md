@@ -1,7 +1,7 @@
 # 👋 Hi, I'm daydreamer17!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=700&lines=IoT+Engineering+Student;Incoming+AI+Systems+Student+%40+NUS;Interested+in+LLM+Systems%2C+Agents%2C+and+Practical+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1300&color=58A6FF&center=true&vCenter=true&width=980&lines=Sometimes+coding%2C+sometimes+daydreaming;Trying+not+to+open+too+many+tabs+in+life;Learning+things+the+hard+way+since+forever" alt="Typing SVG" />
 </p>
 
 <p align="center">
