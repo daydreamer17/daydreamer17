@@ -65,6 +65,14 @@ I am particularly interested in the intersection of **AI capability** and **engi
 
 ---
 
+### 📊 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daydreamer17&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
 ### 📫 Let's Connect!
 
 - **Email**: [tangxiongjie@bupt.edu.cn](mailto:tangxiongjie@bupt.edu.cn)
