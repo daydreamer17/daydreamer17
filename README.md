@@ -17,10 +17,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/daydreamer17?style=flat-square&label=Followers" alt="GitHub followers" />
-</p>
-
-<p align="center">
   <b>Exploring the synergy between IoT infrastructure and LLM-based intelligence.</b>
 </p>
 
