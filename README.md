@@ -1,32 +1,60 @@
-$ whoami
-Xiongjie Tang
+<h1 align="center">Hi, I'm Xiongjie Tang 👋</h1>
 
-$ echo $EDUCATION
-IoT Undergraduate @ BUPT
-Incoming AI Systems @ NUS
+<p align="center">
+  <b>IoT Undergraduate @ BUPT</b> · <b>Incoming AI Systems @ NUS</b>
+</p>
 
-$ cat interests.txt
-LLM systems
-Agent engineering
-RAG / context engineering
-System design
-IoT and intelligent systems
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM-Systems-blue" />
+  <img src="https://img.shields.io/badge/Agent-Engineering-black" />
+  <img src="https://img.shields.io/badge/RAG-Context%20Engineering-green" />
+</p>
 
-$ cat about.txt
-I like building practical AI systems.
-I care about structure, simplicity, and useful abstractions.
-Currently exploring how LLMs and agents can become real-world tools.
+---
 
-$ pwd
-China
+### Profile
 
-$ cat status.log
-[learning] [building] [exploring]
+- Interested in **LLM systems**, **agent engineering**, and **practical AI**
+- Enjoy thinking about **structure**, **simplicity**, and **useful abstractions**
+- Background in **IoT engineering**, now exploring the path toward **AI systems**
 
-$ cat philosophy.md
-Enjoy life and keep learning.
+---
 
-$ ls contacts/
-email    : tangxiongjie@bupt.edu.cn
-github   : github.com/daydreamer17
-linkedin : linkedin.com/in/xiongjie-tang
+### Focus
+
+- LLM systems
+- Agent engineering
+- RAG / context engineering
+- System design
+- IoT and intelligent systems
+
+---
+
+### Status
+
+```text
+learning...
+building...
+exploring...
+````
+
+---
+
+### Contact
+
+* Email: [tangxiongjie@bupt.edu.cn](mailto:tangxiongjie@bupt.edu.cn)
+* GitHub: github.com/daydreamer17
+* LinkedIn: linkedin.com/in/xiongjie-tang
+
+---
+
+### GitHub
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=daydreamer17&show_icons=true&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daydreamer17&layout=compact&hide_border=true" />
+</p>
+```
