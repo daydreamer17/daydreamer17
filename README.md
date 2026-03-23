@@ -1,54 +1,58 @@
-<h1 align="center">Hi, I'm Xiongjie Tang 👋</h1>
+<h1 align="center">Xiongjie Tang</h1>
 
 <p align="center">
-  <b>IoT Undergraduate @ BUPT</b> · <b>Incoming AI Systems @ NUS</b>
+  IoT Undergraduate @ BUPT · Incoming AI Systems @ NUS
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM-Systems-blue" />
-  <img src="https://img.shields.io/badge/Agent-Engineering-black" />
-  <img src="https://img.shields.io/badge/RAG-Context%20Engineering-green" />
+  Interested in LLM systems, agent engineering, RAG, and practical AI.
 </p>
 
 ---
 
-### Profile
+## About
 
-- Interested in **LLM systems**, **agent engineering**, and **practical AI**
-- Enjoy thinking about **structure**, **simplicity**, and **useful abstractions**
-- Background in **IoT engineering**, now exploring the path toward **AI systems**
+I am an undergraduate student in Internet of Things Engineering at BUPT,  
+and an incoming master's student in AI Systems at NUS.
+
+I enjoy building practical systems at the intersection of AI and engineering,  
+especially in areas related to LLMs, agents, context engineering, and system design.
 
 ---
 
-### Focus
+## Interests
 
 - LLM systems
 - Agent engineering
-- RAG / context engineering
+- RAG and context engineering
 - System design
 - IoT and intelligent systems
 
 ---
 
-### Status
+## Currently
 
-```text
-learning...
-building...
-exploring...
-````
+- Learning
+- Building
+- Exploring
 
 ---
 
-### Contact
+## Philosophy
 
-* Email: [tangxiongjie@bupt.edu.cn](mailto:tangxiongjie@bupt.edu.cn)
-* GitHub: github.com/daydreamer17
-* LinkedIn: linkedin.com/in/xiongjie-tang
+> Enjoy life and keep learning.
 
 ---
 
-### GitHub
+## Contact
+
+- Email: tangxiongjie@bupt.edu.cn
+- GitHub: github.com/daydreamer17
+- LinkedIn: linkedin.com/in/xiongjie-tang
+
+---
+
+## GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=daydreamer17&show_icons=true&hide_border=true" />
@@ -57,4 +61,3 @@ exploring...
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daydreamer17&layout=compact&hide_border=true" />
 </p>
-```
