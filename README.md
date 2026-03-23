@@ -5,10 +5,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.bupt.edu.cn/">
-    <img src="https://img.shields.io/badge/BUPT-IoT_Undergraduate-blue?style=flat-square" alt="BUPT" />
+    <img src="https://img.shields.io/badge/BUPT-blue?style=flat-square" alt="BUPT" />
   </a>
   <a href="https://www.nus.edu.sg/">
-    <img src="https://img.shields.io/badge/NUS-Incoming_AI_Systems_MS-orange?style=flat-square" alt="NUS" />
+    <img src="https://img.shields.io/badge/NUS-orange?style=flat-square" alt="NUS" />
   </a>
 </p>
 
