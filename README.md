@@ -35,7 +35,7 @@ I am particularly interested in the intersection of **AI capability** and **engi
 #### **LLM & Agent Systems**
 - Interested in **Agent Engineering**, **RAG**, and **Context Engineering**
 - Focused on retrieval quality, evidence grounding, reranking, and memory-aware generation
-- Curious about building coherent AI workflows with planning, interaction, and human-in-the-loop design and enhancing their performance by **fine-tuning** method like **Supervised Fine-tuning(SFT)** and **Reinforcement Learning(RL)** **(I'm still learning and practice it！)**
+- Curious about building coherent AI workflows with planning, interaction, and human-in-the-loop design and enhancing their performance by **fine-tuning** method like **Supervised Fine-tuning(SFT)** and **Reinforcement Learning(RL)** 
 
 #### **AI Engineering**
 - Comfortable with AI-driven development using **Cursor**, **Claude Code**, and **Codex**
@@ -55,7 +55,7 @@ I am particularly interested in the intersection of **AI capability** and **engi
 ### 🌱 What I’m Currently Focused On
 
 - Learning more about **LLM systems and agent architectures**
-- Exploring better ways to combine **retrieval, memory, and generation**
+- Exploring better ways to combine **retrieval, memory, and generation** by using **fine -tuning** method
 - Improving my understanding of **AI system design**, from model capability to product-level workflow
 - Building toward a long-term direction in **intelligent systems engineering**
 
