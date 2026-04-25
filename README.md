@@ -1,8 +1,8 @@
 # 👋 Hi, I'm daydreamer17!
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1300&color=58A6FF&center=true&vCenter=true&width=980&lines=Sometimes+coding%2C+sometimes+daydreaming;Exploring+Agentic+RL+and+LLM+reasoning;Learning+things+the+hard+way+since+forever" alt="Typing SVG" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://linkedin.com/in/xiongjie-tang">
