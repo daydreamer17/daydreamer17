@@ -26,6 +26,7 @@ My current interests lie at the intersection of **LLMs, agents, and reinforcemen
 * **Agent engineering & RAG**
 
 I enjoy turning research ideas into working systems and exploring how agents can **reason, act, and learn more effectively**.
+I will also start my internship at [A*STAR CFAR](https://www.a-star.edu.sg/cfar/home) as research intern,researching Agentic AI and RL!
 
 ### 🛠 Tech
 
@@ -41,5 +42,5 @@ I enjoy turning research ideas into working systems and exploring how agents can
 
 ### 📫 Contact
 
-* **Email:** [tangxiongjie@bupt.edu.cn](mailto:tangxiongjie@bupt.edu.cn)
+* **Email:** [xiongjietang@u.nus.edu](mailto:xiongjietang@u.nus.edu)
 * **LinkedIn:** [xiongjie-tang](https://linkedin.com/in/xiongjie-tang)
