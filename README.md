@@ -10,30 +10,28 @@
 </p>
 
 <p align="center">
-  <b>Exploring Agentic RL, LLM reasoning, and intelligent agent systems.</b>
+  <b>Agentic RL · LLM Reasoning · Intelligent Agents</b>
 </p>
 
 ---
 
-I'm a Master's student in **AI Systems at the National University of Singapore (NUS)**, with a background in **Internet of Things Engineering from BUPT**.
+I'm a Master's student in **AI Systems at NUS**, with a background in **Internet of Things Engineering from BUPT**.
 
-My current interests lie at the intersection of **LLMs, agents, and reinforcement learning**, especially:
+I'm interested in building and studying **LLM agents that can reason, use tools, interact with environments, and learn from feedback**.
+
+I will also start my internship at [A*STAR CFAR](https://www.a-star.edu.sg/cfar/home) ,researching Agentic AI and RL.
+
+Current interests:
 
 * **Agentic RL & RL for LLMs**
-* **Reasoning, tool use, and search**
-* **Long-horizon credit assignment**
+* **Reasoning, search & tool use**
+* **Credit assignment & long-horizon agents**
 * **LLM post-training**
-* **Agent engineering & RAG**
+* **Agent systems & RAG**
 
-I enjoy turning research ideas into working systems and exploring how agents can **reason, act, and learn more effectively**.
+**Tech:** Python · PyTorch · FastAPI · Java · SQL
 
-I will also start my internship at [A*STAR CFAR](https://www.a-star.edu.sg/cfar/home) as research intern,researching Agentic AI and RL!
-
-### 🛠 Tech
-
-**Languages:** Python · Java · SQL
-**Frameworks:** PyTorch · FastAPI · Spring Boot
-**AI/Agents:** LLMs · RL · RAG · Agent Systems
+---
 
 ### 📊 Activity
 
@@ -43,5 +41,4 @@ I will also start my internship at [A*STAR CFAR](https://www.a-star.edu.sg/cfar/
 
 ### 📫 Contact
 
-* **Email:** [xiongjietang@u.nus.edu](mailto:xiongjietang@u.nus.edu)
-* **LinkedIn:** [xiongjie-tang](https://linkedin.com/in/xiongjie-tang)
+[LinkedIn](https://linkedin.com/in/xiongjie-tang) · [GitHub](https://github.com/daydreamer17) · [Email](mailto:tangxiongjie@bupt.edu.cn)
