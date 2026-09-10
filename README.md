@@ -33,11 +33,6 @@ Current interests:
 
 ---
 
-### 📊 Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daydreamer17&theme=github-compact&hide_border=true" />
-</p>
 
 ### 📫 Contact
 
